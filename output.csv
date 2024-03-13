@@ -1,0 +1,184 @@
+cat,name
+LT Icons,import.py
+LT Icons,output.csv
+Business&Career,bc_assignment.svg
+Business&Career,bc_brainstorming.svg
+Business&Career,bc_business_meeting.svg
+Business&Career,bc_coding.svg
+Business&Career,bc_first_workday.svg
+Business&Career,bc_got_fired.svg
+Business&Career,bc_got_hired.svg
+Business&Career,bc_got_promotion.svg
+Business&Career,bc_got_raise.svg
+Business&Career,bc_huddle.svg
+Business&Career,bc_interview.svg
+Business&Career,bc_last_workday.svg
+Business&Career,bc_left_work.svg
+Business&Career,bc_salary.svg
+Business&Career,bc_started_working.svg
+Content,ct_movie.svg
+Content,ct_radio.svg
+Content,ct_show.svg
+Content,ct_tv.svg
+Education&Training,edu_class.svg
+Education&Training,edu_class_firstday.svg
+Education&Training,edu_class_lastday.svg
+Education&Training,edu_coaching.svg
+Education&Training,edu_final_exam.svg
+Education&Training,edu_graduated.svg
+Education&Training,edu_learning.svg
+Education&Training,edu_midterm.svg
+Education&Training,edu_teaching.svg
+Entertainment,et_board.svg
+Entertainment,et_clubtime.svg
+Entertainment,et_concert.svg
+Entertainment,et_fare.svg
+Entertainment,et_nightout.svg
+Entertainment,et_theatre.svg
+Entertainment,et_videogames.svg
+Family&Friends,ff_bdayparty.svg
+Family&Friends,ff_breastfeeding.svg
+Family&Friends,ff_familytime.svg
+Family&Friends,ff_kidtime.svg
+Family&Friends,ff_letfome.svg
+Family&Friends,ff_movienight.svg
+Family&Friends,ff_party.svg
+Family&Friends,ff_weedingparty.svg
+Food&Drinking,fd_breakfast.svg
+Food&Drinking,fd_coffee.svg
+Food&Drinking,fd_dinner.svg
+Food&Drinking,fd_drinkingtime.svg
+Food&Drinking,fd_drinkwater.svg
+Food&Drinking,fd_lunch.svg
+Food&Drinking,fd_tea.svg
+Health&Safety,hs_checkup.svg
+Health&Safety,hs_dentist.svg
+Health&Safety,hs_doctor_visit.svg
+Health&Safety,hs_gave_birth.svg
+Health&Safety,hs_got_ill.svg
+Health&Safety,hs_got_injured.svg
+Health&Safety,hs_got_weight.svg
+Health&Safety,hs_lost_weight.svg
+Health&Safety,hs_ovulation_end.svg
+Health&Safety,hs_ovulation_start.svg
+Health&Safety,hs_pregnant.svg
+Health&Safety,hs_psychology.svg
+Health&Safety,hs_smoking.svg
+Health&Safety,hs_surgery.svg
+Law&Budget,lb_boughtcar.svg
+Law&Budget,lb_got_broke.svg
+Law&Budget,lb_got_fined.svg
+Law&Budget,lb_got_loan.svg
+Law&Budget,lb_lendmoney.svg
+Law&Budget,lb_paiddebt.svg
+Law&Budget,lb_pruchase.svg
+Law&Budget,lb_sale.svg
+Law&Budget,lb_shopping.svg
+Misc,msc_add.svg
+Misc,msc_calendar.svg
+Misc,msc_done.svg
+Misc,msc_down.svg
+Misc,msc_dropdown.svg
+Misc,msc_edit.svg
+Misc,msc_expand.svg
+Misc,msc_file.svg
+Misc,msc_filter.svg
+Misc,msc_image.svg
+Misc,msc_location.svg
+Misc,msc_next.svg
+Misc,msc_pervious.svg
+Misc,msc_play.svg
+Misc,msc_recurrence.svg
+Misc,msc_remove.svg
+Misc,msc_search.svg
+Misc,msc_text.svg
+Misc,msc_up.svg
+Misc,msc_user.svg
+Moods,mood_angry.svg
+Moods,mood_awesome.svg
+Moods,mood_betrayed.svg
+Moods,mood_concerned.svg
+Moods,mood_disappointed.svg
+Moods,mood_exhausted.svg
+Moods,mood_flirty.svg
+Moods,mood_frustrated.svg
+Moods,mood_happy.svg
+Moods,mood_honoured.svg
+Moods,mood_motivated.svg
+Moods,mood_offended.svg
+Moods,mood_proud.svg
+Moods,mood_relieved.svg
+Moods,mood_sad.svg
+Moods,mood_satisfied.svg
+Moods,mood_tired.svg
+Pets,pt_dogwalking.svg
+Pets,pt_feeding.svg
+Relationship,desktop.ini
+Relationship,rs_brokeup.svg
+Relationship,rs_confessed.svg
+Relationship,rs_conflict.svg
+Relationship,rs_fellinlove.svg
+Relationship,rs_fight.svg
+Relationship,rs_first_kiss.svg
+Relationship,rs_gotfriends.svg
+Relationship,rs_got_relationship.svg
+Relationship,rs_praised.svg
+Relationship,rs_quarrel.svg
+Relationship,rs_scolded.svg
+Relationship,rs_sex.svg
+Routine,rt_cooking.svg
+Routine,rt_repair_end.svg
+Routine,rt_repair_start.svg
+Self improvement,si_book_listening.svg
+Self improvement,si_charity.svg
+Self improvement,si_finished_reading.svg
+Self improvement,si_future_note.svg
+Self improvement,si_idea.svg
+Self improvement,si_lazytime.svg
+Self improvement,si_lessons_learned.svg
+Self improvement,si_meditation.svg
+Self improvement,si_music_listening.svg
+Self improvement,si_podcasts.svg
+Self improvement,si_speech.svg
+Self improvement,si_started_reading.svg
+Self improvement,si_writing.svg
+Self improvement,si_wrote_book.svg
+Special moments,sm_army.svg
+Special moments,sm_back_from_army.svg
+Special moments,sm_born.svg
+Special moments,sm_divorce.svg
+Special moments,sm_engagement.svg
+Special moments,sm_funeral.svg
+Special moments,sm_gaveup.svg
+Special moments,sm_gift.svg
+Special moments,sm_marriage.svg
+Special moments,sm_passed_away.svg
+Special moments,sm_tookplace.svg
+Special moments,sm_trophy.svg
+Special moments,sm_voted.svg
+Special moments,sm_war.svg
+Sports,sports_backgammon.svg
+Sports,sports_baseball.svg
+Sports,sports_base_jumping.svg
+Sports,sports_basketball.svg
+Sports,sports_beathlone.svg
+Sports,sports_chess.svg
+Sports,sports_cycling.svg
+Sports,sports_fishing.svg
+Sports,sports_footbal.svg
+Sports,sports_hiking.svg
+Sports,sports_horse_riding.svg
+Sports,sports_hunting.svg
+Sports,sports_jogging.svg
+Sports,sports_martial_arts.svg
+Sports,sports_pingpong.svg
+Sports,sports_rugby.svg
+Sports,sports_skiing.svg
+Sports,sports_swimming.svg
+Sports,sports_tennis.svg
+Sports,sports_walking.svg
+Sports,sports_yoga.svg
+Travel,tl_driving.svg
+Travel,tl_tripend.svg
+Travel,tl_tripstart.svg
+Travel,tl_wasin.svg
